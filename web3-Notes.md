@@ -103,3 +103,16 @@
     
 # msg.value 
 * Amount of eth sent.
+
+# mapping
+* Its like an array of solidity.
+* Example: Storing balance of multiple users by an index.
+
+# require
+* It will check a certain condition and will return a custom message if we want which will let us show the expected output.
+
+# assert
+* It is same as require but it throws the Panic attack which means it will use all the available gas.
+
+# try/catch in solidity
+* We also have this in sol which could be used inside a function.
