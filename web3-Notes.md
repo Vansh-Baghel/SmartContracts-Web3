@@ -94,3 +94,12 @@
 # block.timestamp (uint)
 
 - current block timestamp as seconds.
+
+# payable 
+* It is the function which will receive eth.
+
+# msg.sender
+* Address of the sender.
+    
+# msg.value 
+* Amount of eth sent.
